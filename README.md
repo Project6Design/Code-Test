@@ -6,17 +6,17 @@ __This test is designed to take about 2-4 hrs.__  Our expectation is that exerci
 
 This test is meant to not be an exhaustive demonstration of your talents but rather a window in to how you approach solving problems on a time-sensitive deadline. We do not expect perfectly engineered code but we do want to see thoughtfully written solutions.
 
-# HTML5 and CSS3
+# Front End Toolkit
 
 ## 1. HTML5
-We've created a homepage (home.html), but our resident SEO expert has told us that although the page looks good, it is not following semantic HTML5 rules. They would like to rewrite the page so that it is easier for search engines and screen readers to understand the content. Additionally, they would like to make sure that the third blog post has a red title (using the .red class)
+We've created a homepage (home.html), but our resident SEO expert has told us that although the page looks good, it is not following semantic HTML5 rules. They would like to rewrite the page so that it is easier for search engines and screen readers to understand the content. Additionally, they would like to make sure that the third blog post has a red title (you don't have to style this, just demonstrate how you would apply the proper class).
 
 __How to win:__
 - The page follows valid, semantic HTML structure
 - The page uses correct BEM rules
 
 
-## 2. Homepage Layout
+## 2. HTML5 and CSS
 Recreate this layout: question-2/comp.png
 
 Use BEM layout and write your code mobile first. Feel free to use CSS Grid, Flexbox, or floats but do not use any prebuilt frameworks or libraries (e.g. Bootstrap). For brevity, you can use any preprocessor you like. For CTA buttons, the client wants the hover effect to darken the button by 20% over 1 second. They also want the nav to be sticky on scroll. They also want the homepage hero image to fade in over 2.5s when the page loads.
@@ -39,8 +39,6 @@ __How to win:__
 - The page scales down elegantly.
 - CSS structure is easy to follow and extend.
 
-
-# Javascript
 
 ## 3. Working with the DOM
 __Copy and paste your solution from the question 2 directory into the question 3 directory.__
