@@ -42,7 +42,7 @@ __How to win:__
 
 ## 3. Working with the DOM
 __Copy and paste your solution from the question 2 directory into the question 3 directory.__
-Using the layout you just created in solution 2, add on vanilla javascript to add a class to the menu on scroll that turns the logo red. Additionally, insert a new node into the page above the intro that counts the instances of the word "dog" (no matter the casing) and displays that count in realtime. It should say, "The page says dog: x times" where x is the count. It
+Using the layout you just created in solution 2, add on vanilla javascript to add a class to the menu on scroll that turns the logo red. Additionally, insert a new node into the page above the intro that counts the instances of the word "dog" (no matter the casing) and displays that count in realtime. It should say, "The page says dog: x times" where x is the count.
 
 
 __How to win:__
