@@ -33,14 +33,13 @@ __Sections:__
 1. __Header:__ The site title should reduce in size on smaller devices
 2. __Hero w/ title,:__ Font size should scale appropriately as the device size changes.  The background image should fill the container, regardless of device size. The aspect ratio must be maintained (no cropping). The animation effect must work for the latest versions of Firefox and Chrome with a no animation fallback for older browsers.
 3. __Callouts:__  Images should be evenly divided with an appropriate gutter between.  On larger devices this should be 4-up, on medium devices this should be 2-up, and on small this should stack. Images should be in a square aspect ratio and crop out from the middle parts of the image that do not fit the ratio.
-4. __Footer and copyright text:__  On larger devices, site menu and copyright text should lay out horizontally with the copyright text always aligned to the middle of the container element.  On smaller devices, the copyright text should go to the right and scale down.
+4. __Site text:__  Fonts should scale up and down in some fashion depending on screen size.
 
 __How to win:__
 - The page follows valid, semantic HTML structure
 - The page uses correct BEM rules
 - The page scales down elegantly.
 - CSS structure is easy to follow and extend.
-
 
 ## 3. Working with the DOM
 __Copy and paste your solution from the question 2 directory into the question 3 directory.__
