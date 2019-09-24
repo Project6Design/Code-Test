@@ -2,6 +2,8 @@
 
 Thank you for taking the Project 6 developer assessment!  The purpose of this test is to see how your experience aligns with our proccess and our projects. The goal here is to complete the test to the best of your ability and understanding; feel free to use any resources at your disposal, but all your code must be human readable.
 
+This test is also going to test your ability to use git workflows. Each answer should have a unique branch and a pull request submitted with your complete answer. Feel free to smush your commits or push them all up.
+
 __This test is designed to take about 2-4 hrs.__  Our expectation is that exercises 1, 3, and 4 will take about 1-2 hours in total and that the rest of the time will be spent on exercise 2. Let us know how you feel you did against these expectations. If the test takes longer, please let us know.
 
 This test is meant to not be an exhaustive demonstration of your talents but rather a window in to how you approach solving problems on a time-sensitive deadline. We do not expect perfectly engineered code but we do want to see thoughtfully written solutions.
